@@ -1,1 +1,1 @@
-![banner](./kraplong.png)
+![banner](./banner.png)
